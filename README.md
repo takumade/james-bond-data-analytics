@@ -1,5 +1,7 @@
 # James Bond Data Analytics
 
+Original data source: https://www.kaggle.com/datasets/dreb87/jamesbond
+
 ## Project Description
 
 This project is a data analysis project that uses Python to analyze the James Bond movie data.
